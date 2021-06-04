@@ -24,5 +24,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # web
 
 
+https://user-images.githubusercontent.com/71748162/120737351-83746200-c520-11eb-8143-1d276caa3e6c.mp4
+
+
 
 
